@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-raj404&show_icons=true&locale=en" alt="satyam-raj404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-raj404&" alt="satyam-raj404" /></p>
+
+![Snake animation](https://github.com/satyam-raj404/satyam-raj404/blob/output/github-contribution-grid-snake.svg)
