@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/@satyamr04205878" target="blank"><img src="https://img.shields.io/twitter/follow/@satyamr04205878?logo=twitter&style=for-the-badge" alt="@satyamr04205878" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain technology**
+- 🔭 I’m currently working on **Data Science and Data Engineering**
 
-- 🌱 I’m currently learning **Solidity, React, Moralis, aave, IPFS**
+- 🌱 I’m currently learning **Sequence Models , MCP Server Interaction , LLMOps , Transformer Architecture**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rTqv50ht0qFswLy29kNsZSEsq-MQJhm3/view?usp=sharing](https://drive.google.com/file/d/1rTqv50ht0qFswLy29kNsZSEsq-MQJhm3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
