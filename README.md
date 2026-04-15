@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <!-- ══════════════════════ MARIO HEADER ══════════════════════ -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89f5a03cd2a3b5e1cd36d/images/marquee.svg" width="100%"/>
@@ -260,3 +260,4 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="3px"/>
 
 </div>
+](https://www.linkedin.com/in/satyam-rajb/)
